@@ -11,7 +11,7 @@ import java.util.Properties;
 public class EmailSender {
 
     private static final String USERNAME = "TestAut123.Ajay@gmail.com"; // Replace with your email
-    private static final String PASSWORD = "aigc rtyu wpnn ytrg";  // Replace with your email password
+    private static final String PASSWORD = "aigc reyu wpnn ytrg";  // Replace with your email password
 
     // Method to send the email with attachment
     public static void sendEmailWithAttachment(String attachmentPath) {
