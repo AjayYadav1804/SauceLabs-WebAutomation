@@ -189,6 +189,9 @@ After test execution, an email with the HTML test report will be automatically s
 - Attached HTML report
 - Timestamp of execution
 - Browser information
+  
+**Email Sent after Execution with Test Execeution Report:**
+  ![Image](https://github.com/user-attachments/assets/48cef3c5-9e06-480b-aa69-817ba0737e4d)
 
 To configure the email settings:
 1. Update the SMTP settings in the config.properties file
@@ -200,6 +203,9 @@ After test execution, reports can be found in:
 - HTML Report: `reports/testReport.html`
 - Screenshots: `reports/screenshots/`
 - XML Results: `test-output/EndToEndTest.xml`
+
+  **Test Execution Report:**
+  ![Image](https://github.com/user-attachments/assets/4b8cfa56-1706-44e1-83f6-d18760839430)
 
 
 ## Troubleshooting
