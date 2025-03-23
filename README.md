@@ -191,7 +191,7 @@ After test execution, an email with the HTML test report will be automatically s
 - Browser information
   
 **Email Sent after Execution with Test Execution Report:**
-  ![Image](https://github.com/user-attachments/assets/48cef3c5-9e06-480b-aa69-817ba0737e4d)
+  ![Image](https://github.com/user-attachments/assets/a228b640-97f9-4f54-8e69-b73ea2be5914)
 
 To configure the email settings:
 1. Update the SMTP settings in the config.properties file
